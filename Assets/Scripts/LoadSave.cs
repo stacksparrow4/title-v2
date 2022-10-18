@@ -94,6 +94,8 @@ public class LoadSave : MonoBehaviour
     //"NEW GAME"
     private void Update()
     {
+        if (slotText1 == null) return;
+
         if (PlayerPrefs.HasKey("health_1"))
         {
             slotText1.text = "CONTINUE";

@@ -255,6 +255,7 @@ public class Player : MonoBehaviour
             //Set the gravity to 0 while on the ladder
             //This might've actually been the reason for the infinite speed glitch I showed you
             playerRigidbody.gravityScale = 0;
+            ableToDash = true;
         }
         else
         {
