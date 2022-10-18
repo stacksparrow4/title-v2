@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4429062ef0c6e484daee9b78da8cd5c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blackImage: {instanceID: 0}
+  - FullHeart: {fileID: 21300000, guid: 3d2f95badd177ae40b34695847fcc8af, type: 3}
+  - EmptyHeart: {fileID: 21300000, guid: 39b904fa47774ff43bfb7a9194baeca1, type: 3}
+  - heart1: {fileID: 8629333888429411005, guid: 05b14485c89fef64f90b3df3d0970b9d,
+      type: 3}
+  - heart2: {fileID: 8569161550359673205, guid: 1e306b4e2964b1540a9cadac7feb248d,
+      type: 3}
+  - heart3: {fileID: 1850265563381627436, guid: 4128b23e9b60ac14996796a13a9f066f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
